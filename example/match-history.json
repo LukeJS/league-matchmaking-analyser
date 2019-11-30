@@ -1,0 +1,107 @@
+{
+  "matches": [
+    {
+      "platformId": "EUW1",
+      "gameId": 4270297098,
+      "champion": 54,
+      "queue": 900,
+      "season": 13,
+      "timestamp": 1573263746689,
+      "role": "DUO",
+      "lane": "TOP"
+    },
+    {
+      "platformId": "EUW1",
+      "gameId": 4270305541,
+      "champion": 45,
+      "queue": 900,
+      "season": 13,
+      "timestamp": 1573262407388,
+      "role": "DUO_SUPPORT",
+      "lane": "NONE"
+    },
+    {
+      "platformId": "EUW1",
+      "gameId": 4270272126,
+      "champion": 133,
+      "queue": 900,
+      "season": 13,
+      "timestamp": 1573259670342,
+      "role": "DUO_SUPPORT",
+      "lane": "NONE"
+    },
+    {
+      "platformId": "EUW1",
+      "gameId": 4263961342,
+      "champion": 24,
+      "queue": 900,
+      "season": 13,
+      "timestamp": 1572902171497,
+      "role": "DUO_SUPPORT",
+      "lane": "MID"
+    },
+    {
+      "platformId": "EUW1",
+      "gameId": 4262792088,
+      "champion": 203,
+      "queue": 900,
+      "season": 13,
+      "timestamp": 1572818521062,
+      "role": "SOLO",
+      "lane": "BOTTOM"
+    },
+    {
+      "platformId": "EUW1",
+      "gameId": 4260985583,
+      "champion": 498,
+      "queue": 900,
+      "season": 13,
+      "timestamp": 1572739481051,
+      "role": "DUO_SUPPORT",
+      "lane": "NONE"
+    },
+    {
+      "platformId": "EUW1",
+      "gameId": 4260204838,
+      "champion": 51,
+      "queue": 900,
+      "season": 13,
+      "timestamp": 1572710551627,
+      "role": "DUO_SUPPORT",
+      "lane": "NONE"
+    },
+    {
+      "platformId": "EUW1",
+      "gameId": 4256123974,
+      "champion": 498,
+      "queue": 900,
+      "season": 13,
+      "timestamp": 1572484275634,
+      "role": "DUO",
+      "lane": "NONE"
+    },
+    {
+      "platformId": "EUW1",
+      "gameId": 4255507809,
+      "champion": 25,
+      "queue": 900,
+      "season": 13,
+      "timestamp": 1572463086780,
+      "role": "NONE",
+      "lane": "JUNGLE"
+    },
+    {
+      "platformId": "EUW1",
+      "gameId": 4253897284,
+      "champion": 32,
+      "queue": 900,
+      "season": 13,
+      "timestamp": 1572385360383,
+      "role": "DUO_SUPPORT",
+      "lane": "NONE"
+    }
+  ],
+  "startIndex": 0,
+  "endIndex": 10,
+  "totalGames": 43
+}

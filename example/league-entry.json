@@ -1,0 +1,32 @@
+[
+  {
+    "queueType": "RANKED_SOLO_5x5",
+    "summonerName": "MasterNoPants",
+    "hotStreak": false,
+    "wins": 44,
+    "veteran": false,
+    "losses": 42,
+    "rank": "III",
+    "tier": "SILVER",
+    "inactive": false,
+    "freshBlood": false,
+    "leagueId": "eaf47c20-222b-11e9-9d00-c81f66dacb22",
+    "summonerId": "reMuxE0qnyJkl1sw51NkusJ2xRd1DGB50khWGg56Aarh9-kb",
+    "leaguePoints": 20
+  },
+  {
+    "queueType": "RANKED_TFT",
+    "summonerName": "MasterNoPants",
+    "hotStreak": false,
+    "wins": 0,
+    "veteran": false,
+    "losses": 5,
+    "rank": "I",
+    "tier": "IRON",
+    "inactive": false,
+    "freshBlood": false,
+    "leagueId": "fc705fe0-b3e0-11e9-a89e-c81f66dacb22",
+    "summonerId": "reMuxE0qnyJkl1sw51NkusJ2xRd1DGB50khWGg56Aarh9-kb",
+    "leaguePoints": 1
+  }
+]
